@@ -5,4 +5,5 @@ echo "Good night"
 echo "Hello world"
 echo "A Good Book is a Good Friend"
 echo "slow and steady wins the race"
-echo "My name is Shiva Sai"
+echo "Nothing is better than a loyal friend"
+echo "hii'
